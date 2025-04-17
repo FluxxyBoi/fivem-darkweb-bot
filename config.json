@@ -1,0 +1,22 @@
+{
+    "token": "YOUR_BOT_TOKEN_HERE",
+    "CLIENT_ID": "YOUR_CLIENT_ID_HERE",
+    "roles": {
+        "syndicate": "SYNDICATE_ROLE_ID_HERE",
+        "redline": "REDLINE_ROLE_ID_HERE",
+        "blackwaters": "BLACKWATERS_ROLE_ID_HERE"
+    },
+    "darkwebchannel": "CHANNEL_ID_FOR_DARKWEB",
+    "guild": "YOUR_GUILD_ID_HERE",
+    "statuses": [
+        { "name": "Gang Wars!", "type": 3 },
+        { "name": "in races!", "type": 0 },
+        { "name": "Syndicate", "type": 2 }
+    ],
+    "embedFooter": "YOUR_FOOTER_HERE",
+    "authors": {
+        "syndicate": "SYNDICATE_AUTHOR_HERE",
+        "redline": "REDLINE_AUTHOR_HERE",
+        "blackwaters": "BLACKWATERS_AUTHOR_HERE"
+    }
+}
